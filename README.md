@@ -64,7 +64,7 @@ To stop using it, choose a different default browser in System Settings → Desk
 - **Global hotkey** to cycle or pick the pinned target.
 - **Recent links** menu to re-send a link that went to the wrong place.
 - **Exact profile detection in follow mode** via the Accessibility API (window titles), if a browser's own "last-used profile" behavior proves unreliable.
-- App icon; Developer ID signing for sharing.
+- Developer ID signing for sharing.
 
 ## License
 
